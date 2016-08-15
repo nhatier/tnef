@@ -1,4 +1,8 @@
-[![Build Status](https://api.travis-ci.org/verdammelt/tnef.svg?branch=master)](https://api.travis-ci.org/verdammelt/tnef.svg)
+
+
+TNEF Branch with Visual Studio support and other experiments.
+NOTE: This fork likely has messed up whitespaces and EOLs, sorry, Visual Studio's Edit.FormatDocument is an old habit.
+
 
 
                                    TNEF
